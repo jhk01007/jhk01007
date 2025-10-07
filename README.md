@@ -1,8 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=KimJaeHee's+Github&size=50&center=true&font=Karla&color=212121&weight=800&width=635&height=100)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=KimJaeHee's+Github&size=50&center=true&font=Karla&color=212121&weight=800&width=635&height=100&repeat=false)](https://git.io/typing-svg)
 
-**I am a Backend Developer.** <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Backend+Developer&size=20&center=true&font=Karla&color=212121&repeat=false)](https://git.io/typing-svg) <br/>
+
 ## 📚 Stacks
 **📌 Platforms & Language**
   
