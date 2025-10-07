@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=KimJaeHee's+Github&size=50&center=true&font=Noto+Sans+KR&color=212121&weight=600&width=635&height=100&repeat=false)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KimJaeHee's%20Github&fontSize=50" />
 
 ## 📚 Stacks
 **📌 Platforms & Language**
